@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelemetrySystem", "TelemetrySystem\TelemetrySystem.csproj", "{A2933329-FB75-4B58-BB37-05523B8E0EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelemetrySystemTest", "TelemetrySystemTest\TelemetrySystemTest.csproj", "{1939CEFA-1D4B-483F-BD0A-09890050103D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2933329-FB75-4B58-BB37-05523B8E0EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2933329-FB75-4B58-BB37-05523B8E0EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2933329-FB75-4B58-BB37-05523B8E0EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2933329-FB75-4B58-BB37-05523B8E0EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1939CEFA-1D4B-483F-BD0A-09890050103D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1939CEFA-1D4B-483F-BD0A-09890050103D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1939CEFA-1D4B-483F-BD0A-09890050103D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1939CEFA-1D4B-483F-BD0A-09890050103D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
